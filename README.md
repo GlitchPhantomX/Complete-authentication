@@ -32,7 +32,7 @@ A robust and secure authentication system built with Node.js, Express, and Mongo
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/GlitchPhantomX/Complete-authentication.git
    cd complete-authentication
    ```
 
